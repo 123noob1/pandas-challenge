@@ -1,7 +1,7 @@
 # pandas-challenge
 Module 4 Challenge - using Pandas DataFrame to analyze data.
 
-- <b>Notes to Graders:</b> Please refer to the first Markdown in the <code>PyCitySchools_analysis.ipynb</code> for the final analysis.
+- <b>Notes to Graders:</b> Please refer to <code>PyCitySchools_analysis.ipynb</code> for the complete script as well as the written report/analysis which can be found under the first <code>Markdown</code>.
 
 # Background
 You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
